@@ -1,2 +1,2 @@
 # ExamplesCS
-Own implementations of classical algorithms, data structures and patterns.
+Implementations of classical algorithms, data structures and patterns.
